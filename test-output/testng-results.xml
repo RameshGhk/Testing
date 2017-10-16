@@ -1,0 +1,1797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="10" total="37" passed="27">
+  <reporter-output>
+    <line>
+      <![CDATA[Log out button found with id, New user registration is successful]]>
+    </line>
+    <line>
+      <![CDATA[Login with valid credentials is successful]]>
+    </line>
+    <line>
+      <![CDATA[clicked to edit the listed category]]>
+    </line>
+    <line>
+      <![CDATA[clicked to delete the listed category]]>
+    </line>
+    <line>
+      <![CDATA[pop up alert before deleting]]>
+    </line>
+    <line>
+      <![CDATA[Accepted alert message and delete successful]]>
+    </line>
+    <line>
+      <![CDATA[Size of the list: 10]]>
+    </line>
+    <line>
+      <![CDATA[clicked to edit the listed expenses]]>
+    </line>
+    <line>
+      <![CDATA[Expense modification is successful]]>
+    </line>
+    <line>
+      <![CDATA[clicked to delete the listed expenses]]>
+    </line>
+    <line>
+      <![CDATA[pop up alert before deleting]]>
+    </line>
+    <line>
+      <![CDATA[Accepted alert message and delete successful]]>
+    </line>
+    <line>
+      <![CDATA[List of expenses are :]]>
+    </line>
+    <line>
+      <![CDATA[14.10.18]]>
+    </line>
+    <line>
+      <![CDATA[bmw]]>
+    </line>
+    <line>
+      <![CDATA[5.000,00 €]]>
+    </line>
+    <line>
+      <![CDATA[edited_expense]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[13.10.12]]>
+    </line>
+    <line>
+      <![CDATA[audi]]>
+    </line>
+    <line>
+      <![CDATA[200,00 €]]>
+    </line>
+    <line>
+      <![CDATA[Purchaged]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[13.10.12]]>
+    </line>
+    <line>
+      <![CDATA[bmw]]>
+    </line>
+    <line>
+      <![CDATA[200,00 €]]>
+    </line>
+    <line>
+      <![CDATA[Purchaged]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[13.10.12]]>
+    </line>
+    <line>
+      <![CDATA[honda]]>
+    </line>
+    <line>
+      <![CDATA[200,00 €]]>
+    </line>
+    <line>
+      <![CDATA[Purchaged]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[13.12.11]]>
+    </line>
+    <line>
+      <![CDATA[hostel fee]]>
+    </line>
+    <line>
+      <![CDATA[200,00 €]]>
+    </line>
+    <line>
+      <![CDATA[Paid]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[13.12.11]]>
+    </line>
+    <line>
+      <![CDATA[school fee]]>
+    </line>
+    <line>
+      <![CDATA[200,00 €]]>
+    </line>
+    <line>
+      <![CDATA[Paid]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[13.11.10]]>
+    </line>
+    <line>
+      <![CDATA[education loan]]>
+    </line>
+    <line>
+      <![CDATA[200,00 €]]>
+    </line>
+    <line>
+      <![CDATA[Barrowed]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[13.11.10]]>
+    </line>
+    <line>
+      <![CDATA[school fee]]>
+    </line>
+    <line>
+      <![CDATA[200,00 €]]>
+    </line>
+    <line>
+      <![CDATA[Barrowed]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[13.11.10]]>
+    </line>
+    <line>
+      <![CDATA[benz]]>
+    </line>
+    <line>
+      <![CDATA[200,00 €]]>
+    </line>
+    <line>
+      <![CDATA[Purchaged]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[13.10.00]]>
+    </line>
+    <line>
+      <![CDATA[audi]]>
+    </line>
+    <line>
+      <![CDATA[200,00 €]]>
+    </line>
+    <line>
+      <![CDATA[Purchaged]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[pop up alert displaying error message: 'Error: New Passwords aren't equal!']]>
+    </line>
+    <line>
+      <![CDATA[user account edit is not successful]]>
+    </line>
+    <line>
+      <![CDATA[pop up alert displaying error message: 'Error: New Passwords aren't equal!']]>
+    </line>
+    <line>
+      <![CDATA[user account edit is not successful]]>
+    </line>
+    <line>
+      <![CDATA[pop up alert displaying error message: 'Error: New Passwords aren't equal!']]>
+    </line>
+    <line>
+      <![CDATA[user account edit is not successful]]>
+    </line>
+    <line>
+      <![CDATA[user account edit is successful with valid inputs]]>
+    </line>
+    <line>
+      <![CDATA[Is user name is enabled to edit ? : false]]>
+    </line>
+    <line>
+      <![CDATA[User Name cannot be modified]]>
+    </line>
+  </reporter-output>
+  <suite name="User acceptance TestSuite" duration-ms="127232" started-at="2017-10-15T15:39:20Z" finished-at="2017-10-15T15:41:28Z">
+    <groups>
+    </groups>
+    <test name="Expense Tracker Validattion" duration-ms="127232" started-at="2017-10-15T15:39:20Z" finished-at="2017-10-15T15:41:28Z">
+      <class name="testClassPackage.TestClass1">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="SetUp" is-config="true" duration-ms="10981" started-at="2017-10-15T17:40:05Z" finished-at="2017-10-15T17:40:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Login with valid credentials is successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="testcase1_create_category(java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase1_create_category" duration-ms="2439" started-at="2017-10-15T17:40:16Z" data-provider="categories" finished-at="2017-10-15T17:40:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bmw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1_create_category -->
+        <test-method status="PASS" signature="testcase1_create_category(java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase1_create_category" duration-ms="1917" started-at="2017-10-15T17:40:19Z" data-provider="categories" finished-at="2017-10-15T17:40:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[honda]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1_create_category -->
+        <test-method status="PASS" signature="testcase1_create_category(java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase1_create_category" duration-ms="2434" started-at="2017-10-15T17:40:21Z" data-provider="categories" finished-at="2017-10-15T17:40:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[audi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1_create_category -->
+        <test-method status="PASS" signature="testcase1_create_category(java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase1_create_category" duration-ms="3178" started-at="2017-10-15T17:40:23Z" data-provider="categories" finished-at="2017-10-15T17:40:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[benz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1_create_category -->
+        <test-method status="PASS" signature="testcase1_create_category(java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase1_create_category" duration-ms="2333" started-at="2017-10-15T17:40:26Z" data-provider="categories" finished-at="2017-10-15T17:40:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Home loan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1_create_category -->
+        <test-method status="PASS" signature="testcase1_create_category(java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase1_create_category" duration-ms="2324" started-at="2017-10-15T17:40:29Z" data-provider="categories" finished-at="2017-10-15T17:40:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[education loan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1_create_category -->
+        <test-method status="PASS" signature="testcase1_create_category(java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase1_create_category" duration-ms="3002" started-at="2017-10-15T17:40:31Z" data-provider="categories" finished-at="2017-10-15T17:40:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[school fee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1_create_category -->
+        <test-method status="PASS" signature="testcase1_create_category(java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase1_create_category" duration-ms="3361" started-at="2017-10-15T17:40:34Z" data-provider="categories" finished-at="2017-10-15T17:40:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hostel fee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1_create_category -->
+        <test-method status="PASS" signature="testcase2_edit_category()[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase2_edit_category" duration-ms="2746" started-at="2017-10-15T17:40:37Z" finished-at="2017-10-15T17:40:40Z">
+          <reporter-output>
+            <line>
+              <![CDATA[clicked to edit the listed category]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase2_edit_category -->
+        <test-method status="PASS" signature="testcase3_delete_category()[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase3_delete_category" duration-ms="981" started-at="2017-10-15T17:40:40Z" finished-at="2017-10-15T17:40:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[clicked to delete the listed category]]>
+            </line>
+            <line>
+              <![CDATA[pop up alert before deleting]]>
+            </line>
+            <line>
+              <![CDATA[Accepted alert message and delete successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase3_delete_category -->
+        <test-method status="PASS" signature="testcase4_add_expenses(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase4_add_expenses" duration-ms="2125" started-at="2017-10-15T17:40:41Z" data-provider="getExpensesData" finished-at="2017-10-15T17:40:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[honda]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Purchaged]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4_add_expenses -->
+        <test-method status="PASS" signature="testcase4_add_expenses(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase4_add_expenses" duration-ms="1907" started-at="2017-10-15T17:40:43Z" data-provider="getExpensesData" finished-at="2017-10-15T17:40:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bmw]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Purchaged]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4_add_expenses -->
+        <test-method status="PASS" signature="testcase4_add_expenses(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase4_add_expenses" duration-ms="2033" started-at="2017-10-15T17:40:45Z" data-provider="getExpensesData" finished-at="2017-10-15T17:40:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[audi]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Purchaged]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4_add_expenses -->
+        <test-method status="PASS" signature="testcase4_add_expenses(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase4_add_expenses" duration-ms="2038" started-at="2017-10-15T17:40:47Z" data-provider="getExpensesData" finished-at="2017-10-15T17:40:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2010]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[benz]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Purchaged]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4_add_expenses -->
+        <test-method status="PASS" signature="testcase4_add_expenses(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase4_add_expenses" duration-ms="1962" started-at="2017-10-15T17:40:49Z" data-provider="getExpensesData" finished-at="2017-10-15T17:40:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2010]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[school fee]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Barrowed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4_add_expenses -->
+        <test-method status="PASS" signature="testcase4_add_expenses(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase4_add_expenses" duration-ms="1948" started-at="2017-10-15T17:40:51Z" data-provider="getExpensesData" finished-at="2017-10-15T17:40:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2010]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[education loan]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Barrowed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4_add_expenses -->
+        <test-method status="PASS" signature="testcase4_add_expenses(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase4_add_expenses" duration-ms="2039" started-at="2017-10-15T17:40:53Z" data-provider="getExpensesData" finished-at="2017-10-15T17:40:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2011]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[school fee]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Paid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4_add_expenses -->
+        <test-method status="PASS" signature="testcase4_add_expenses(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase4_add_expenses" duration-ms="2027" started-at="2017-10-15T17:40:55Z" data-provider="getExpensesData" finished-at="2017-10-15T17:40:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2011]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[hostel fee]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Paid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4_add_expenses -->
+        <test-method status="PASS" signature="testcase4_add_expenses(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase4_add_expenses" duration-ms="1933" started-at="2017-10-15T17:40:57Z" data-provider="getExpensesData" finished-at="2017-10-15T17:40:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2012]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[honda]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Purchaged]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4_add_expenses -->
+        <test-method status="PASS" signature="testcase4_add_expenses(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase4_add_expenses" duration-ms="2154" started-at="2017-10-15T17:40:59Z" data-provider="getExpensesData" finished-at="2017-10-15T17:41:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2012]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bmw]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Purchaged]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4_add_expenses -->
+        <test-method status="PASS" signature="testcase4_add_expenses(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase4_add_expenses" duration-ms="1942" started-at="2017-10-15T17:41:01Z" data-provider="getExpensesData" finished-at="2017-10-15T17:41:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2012]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[audi]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Purchaged]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4_add_expenses -->
+        <test-method status="PASS" signature="testcase4_add_expenses(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase4_add_expenses" duration-ms="2002" started-at="2017-10-15T17:41:03Z" data-provider="getExpensesData" finished-at="2017-10-15T17:41:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2013]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[benz]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Purchaged]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4_add_expenses -->
+        <test-method status="PASS" signature="testcase5_edit_expenses()[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase5_edit_expenses" duration-ms="2689" started-at="2017-10-15T17:41:05Z" finished-at="2017-10-15T17:41:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Size of the list: 10]]>
+            </line>
+            <line>
+              <![CDATA[clicked to edit the listed expenses]]>
+            </line>
+            <line>
+              <![CDATA[Expense modification is successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase5_edit_expenses -->
+        <test-method status="PASS" signature="testcase6_delete_expenses()[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase6_delete_expenses" duration-ms="131" started-at="2017-10-15T17:41:08Z" finished-at="2017-10-15T17:41:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[clicked to delete the listed expenses]]>
+            </line>
+            <line>
+              <![CDATA[pop up alert before deleting]]>
+            </line>
+            <line>
+              <![CDATA[Accepted alert message and delete successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase6_delete_expenses -->
+        <test-method status="PASS" signature="testcase7_list_expenses()[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase7_list_expenses" duration-ms="11783" started-at="2017-10-15T17:41:08Z" finished-at="2017-10-15T17:41:20Z">
+          <reporter-output>
+            <line>
+              <![CDATA[List of expenses are :]]>
+            </line>
+            <line>
+              <![CDATA[14.10.18]]>
+            </line>
+            <line>
+              <![CDATA[bmw]]>
+            </line>
+            <line>
+              <![CDATA[5.000,00 €]]>
+            </line>
+            <line>
+              <![CDATA[edited_expense]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[13.10.12]]>
+            </line>
+            <line>
+              <![CDATA[audi]]>
+            </line>
+            <line>
+              <![CDATA[200,00 €]]>
+            </line>
+            <line>
+              <![CDATA[Purchaged]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[13.10.12]]>
+            </line>
+            <line>
+              <![CDATA[bmw]]>
+            </line>
+            <line>
+              <![CDATA[200,00 €]]>
+            </line>
+            <line>
+              <![CDATA[Purchaged]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[13.10.12]]>
+            </line>
+            <line>
+              <![CDATA[honda]]>
+            </line>
+            <line>
+              <![CDATA[200,00 €]]>
+            </line>
+            <line>
+              <![CDATA[Purchaged]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[13.12.11]]>
+            </line>
+            <line>
+              <![CDATA[hostel fee]]>
+            </line>
+            <line>
+              <![CDATA[200,00 €]]>
+            </line>
+            <line>
+              <![CDATA[Paid]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[13.12.11]]>
+            </line>
+            <line>
+              <![CDATA[school fee]]>
+            </line>
+            <line>
+              <![CDATA[200,00 €]]>
+            </line>
+            <line>
+              <![CDATA[Paid]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[13.11.10]]>
+            </line>
+            <line>
+              <![CDATA[education loan]]>
+            </line>
+            <line>
+              <![CDATA[200,00 €]]>
+            </line>
+            <line>
+              <![CDATA[Barrowed]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[13.11.10]]>
+            </line>
+            <line>
+              <![CDATA[school fee]]>
+            </line>
+            <line>
+              <![CDATA[200,00 €]]>
+            </line>
+            <line>
+              <![CDATA[Barrowed]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[13.11.10]]>
+            </line>
+            <line>
+              <![CDATA[benz]]>
+            </line>
+            <line>
+              <![CDATA[200,00 €]]>
+            </line>
+            <line>
+              <![CDATA[Purchaged]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[13.10.00]]>
+            </line>
+            <line>
+              <![CDATA[audi]]>
+            </line>
+            <line>
+              <![CDATA[200,00 €]]>
+            </line>
+            <line>
+              <![CDATA[Purchaged]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase7_list_expenses -->
+        <test-method status="FAIL" signature="testcase8_edit_user_account(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase8_edit_user_account" duration-ms="1164" started-at="2017-10-15T17:41:20Z" data-provider="editUserData" finished-at="2017-10-15T17:41:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pass1 ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [http://thawing-shelf-73260.herokuapp.com/listexpenses] but found [http://thawing-shelf-73260.herokuapp.com/editaccount.jsp]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [http://thawing-shelf-73260.herokuapp.com/listexpenses] but found [http://thawing-shelf-73260.herokuapp.com/editaccount.jsp]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:496)
+	at org.testng.Assert.assertEquals(Assert.java:125)
+	at org.testng.Assert.assertEquals(Assert.java:178)
+	at org.testng.Assert.assertEquals(Assert.java:188)
+	at pageObjectsPackage.EditUserAccount.verifyEditAccount(EditUserAccount.java:66)
+	at pageObjectsPackage.EditUserAccount.editUserAccount(EditUserAccount.java:81)
+	at testClassPackage.TestClass1.testcase8_edit_user_account(TestClass1.java:119)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:821)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[pop up alert displaying error message: 'Error: New Passwords aren't equal!']]>
+            </line>
+            <line>
+              <![CDATA[user account edit is not successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase8_edit_user_account -->
+        <test-method status="FAIL" signature="testcase8_edit_user_account(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase8_edit_user_account" duration-ms="1000" started-at="2017-10-15T17:41:21Z" data-provider="editUserData" finished-at="2017-10-15T17:41:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [http://thawing-shelf-73260.herokuapp.com/listexpenses] but found [http://thawing-shelf-73260.herokuapp.com/editaccount.jsp]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [http://thawing-shelf-73260.herokuapp.com/listexpenses] but found [http://thawing-shelf-73260.herokuapp.com/editaccount.jsp]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:496)
+	at org.testng.Assert.assertEquals(Assert.java:125)
+	at org.testng.Assert.assertEquals(Assert.java:178)
+	at org.testng.Assert.assertEquals(Assert.java:188)
+	at pageObjectsPackage.EditUserAccount.verifyEditAccount(EditUserAccount.java:66)
+	at pageObjectsPackage.EditUserAccount.editUserAccount(EditUserAccount.java:81)
+	at testClassPackage.TestClass1.testcase8_edit_user_account(TestClass1.java:119)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:821)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[pop up alert displaying error message: 'Error: New Passwords aren't equal!']]>
+            </line>
+            <line>
+              <![CDATA[user account edit is not successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase8_edit_user_account -->
+        <test-method status="FAIL" signature="testcase8_edit_user_account(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase8_edit_user_account" duration-ms="1417" started-at="2017-10-15T17:41:22Z" data-provider="editUserData" finished-at="2017-10-15T17:41:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [http://thawing-shelf-73260.herokuapp.com/listexpenses] but found [http://thawing-shelf-73260.herokuapp.com/editaccount]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [http://thawing-shelf-73260.herokuapp.com/listexpenses] but found [http://thawing-shelf-73260.herokuapp.com/editaccount]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:496)
+	at org.testng.Assert.assertEquals(Assert.java:125)
+	at org.testng.Assert.assertEquals(Assert.java:178)
+	at org.testng.Assert.assertEquals(Assert.java:188)
+	at pageObjectsPackage.EditUserAccount.verifyEditAccount(EditUserAccount.java:66)
+	at pageObjectsPackage.EditUserAccount.editUserAccount(EditUserAccount.java:81)
+	at testClassPackage.TestClass1.testcase8_edit_user_account(TestClass1.java:119)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:821)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase8_edit_user_account -->
+        <test-method status="FAIL" signature="testcase8_edit_user_account(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase8_edit_user_account" duration-ms="1039" started-at="2017-10-15T17:41:23Z" data-provider="editUserData" finished-at="2017-10-15T17:41:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pass3]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [http://thawing-shelf-73260.herokuapp.com/listexpenses] but found [http://thawing-shelf-73260.herokuapp.com/editaccount.jsp]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [http://thawing-shelf-73260.herokuapp.com/listexpenses] but found [http://thawing-shelf-73260.herokuapp.com/editaccount.jsp]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:496)
+	at org.testng.Assert.assertEquals(Assert.java:125)
+	at org.testng.Assert.assertEquals(Assert.java:178)
+	at org.testng.Assert.assertEquals(Assert.java:188)
+	at pageObjectsPackage.EditUserAccount.verifyEditAccount(EditUserAccount.java:66)
+	at pageObjectsPackage.EditUserAccount.editUserAccount(EditUserAccount.java:81)
+	at testClassPackage.TestClass1.testcase8_edit_user_account(TestClass1.java:119)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:821)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[pop up alert displaying error message: 'Error: New Passwords aren't equal!']]>
+            </line>
+            <line>
+              <![CDATA[user account edit is not successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase8_edit_user_account -->
+        <test-method status="PASS" signature="testcase8_edit_user_account(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase8_edit_user_account" duration-ms="1865" started-at="2017-10-15T17:41:24Z" data-provider="editUserData" finished-at="2017-10-15T17:41:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[user account edit is successful with valid inputs]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase8_edit_user_account -->
+        <test-method status="FAIL" signature="testcase9_edit_user_name()[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="testcase9_edit_user_name" duration-ms="838" started-at="2017-10-15T17:41:26Z" finished-at="2017-10-15T17:41:27Z">
+          <exception class="org.openqa.selenium.InvalidElementStateException">
+            <message>
+              <![CDATA[Element is not enabled
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-S094UKO', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\HP\AppData\Local\Temp\rust_mozprofile.EBmnWy7pqhql, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=9092, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: f84ac4f5-6aa8-470b-9743-d3df9160d70f]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.InvalidElementStateException: Element is not enabled
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-S094UKO', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\HP\AppData\Local\Temp\rust_mozprofile.EBmnWy7pqhql, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=9092, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: f84ac4f5-6aa8-470b-9743-d3df9160d70f
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:646)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:275)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:82)
+	at pageObjectsPackage.EditUserAccount.validateEditUserName(EditUserAccount.java:91)
+	at testClassPackage.TestClass1.testcase9_edit_user_name(TestClass1.java:124)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:821)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.InvalidElementStateException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Is user name is enabled to edit ? : false]]>
+            </line>
+            <line>
+              <![CDATA[User Name cannot be modified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase9_edit_user_name -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testClassPackage.TestClass1@5442a311]" name="tearDown" is-config="true" duration-ms="447" started-at="2017-10-15T17:41:27Z" finished-at="2017-10-15T17:41:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testClassPackage.TestClass1 -->
+      <class name="testClassPackage.TestClass">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:testClassPackage.TestClass@604ed9f0]" name="SetUp" is-config="true" duration-ms="5645" started-at="2017-10-15T17:39:20Z" finished-at="2017-10-15T17:39:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="testcase1_create_new_user(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass@604ed9f0]" name="testcase1_create_new_user" duration-ms="1434" started-at="2017-10-15T17:39:26Z" data-provider="newUserData" finished-at="2017-10-15T17:39:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ramesh1234]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Log out button found with id, New user registration is successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase1_create_new_user -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testClassPackage.TestClass@604ed9f0]" name="tearDown" is-config="true" duration-ms="486" started-at="2017-10-15T17:39:27Z" finished-at="2017-10-15T17:39:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:testClassPackage.TestClass@604ed9f0]" name="SetUp" is-config="true" duration-ms="4613" started-at="2017-10-15T17:39:28Z" finished-at="2017-10-15T17:39:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="FAIL" signature="testcase1_create_new_user(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass@604ed9f0]" name="testcase1_create_new_user" duration-ms="3111" started-at="2017-10-15T17:39:33Z" data-provider="newUserData" finished-at="2017-10-15T17:39:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ramesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: #logout
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-S094UKO', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\HP\AppData\Local\Temp\rust_mozprofile.iP8PirDoXxJv, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=2148, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 3eb74313-22c5-4486-870d-a7279b31cda7
+*** Element info: {Using=id, value=logout}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: #logout
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-S094UKO', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\HP\AppData\Local\Temp\rust_mozprofile.iP8PirDoXxJv, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=2148, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 3eb74313-22c5-4486-870d-a7279b31cda7
+*** Element info: {Using=id, value=logout}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:646)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:416)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:462)
+	at org.openqa.selenium.By$ById.findElement(By.java:218)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:408)
+	at pageObjectsPackage.NewUserRegistrationPage.verifyRegistration(NewUserRegistrationPage.java:46)
+	at pageObjectsPackage.NewUserRegistrationPage.newUserRegistration(NewUserRegistrationPage.java:61)
+	at testClassPackage.TestClass.testcase1_create_new_user(TestClass.java:48)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:821)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1_create_new_user -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testClassPackage.TestClass@604ed9f0]" name="tearDown" is-config="true" duration-ms="316" started-at="2017-10-15T17:39:36Z" finished-at="2017-10-15T17:39:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:testClassPackage.TestClass@604ed9f0]" name="SetUp" is-config="true" duration-ms="4534" started-at="2017-10-15T17:39:36Z" finished-at="2017-10-15T17:39:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="FAIL" signature="testcase1_create_new_user(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass@604ed9f0]" name="testcase1_create_new_user" duration-ms="716" started-at="2017-10-15T17:39:41Z" data-provider="newUserData" finished-at="2017-10-15T17:39:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ramesh1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.UnhandledAlertException">
+            <message>
+              <![CDATA[: 
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-S094UKO', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\HP\AppData\Local\Temp\rust_mozprofile.f0gZ3hG1fXzc, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=7824, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 21b5e6c9-c3ea-4fc4-a5a9-822947e6b06e
+*** Element info: {Using=id, value=logout}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.UnhandledAlertException: : 
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-S094UKO', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\HP\AppData\Local\Temp\rust_mozprofile.f0gZ3hG1fXzc, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=7824, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 21b5e6c9-c3ea-4fc4-a5a9-822947e6b06e
+*** Element info: {Using=id, value=logout}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:118)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:646)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:416)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:462)
+	at org.openqa.selenium.By$ById.findElement(By.java:218)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:408)
+	at pageObjectsPackage.NewUserRegistrationPage.verifyRegistration(NewUserRegistrationPage.java:46)
+	at pageObjectsPackage.NewUserRegistrationPage.newUserRegistration(NewUserRegistrationPage.java:61)
+	at testClassPackage.TestClass.testcase1_create_new_user(TestClass.java:48)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:821)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.UnhandledAlertException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1_create_new_user -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testClassPackage.TestClass@604ed9f0]" name="tearDown" is-config="true" duration-ms="363" started-at="2017-10-15T17:39:41Z" finished-at="2017-10-15T17:39:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:testClassPackage.TestClass@604ed9f0]" name="SetUp" is-config="true" duration-ms="5793" started-at="2017-10-15T17:39:42Z" finished-at="2017-10-15T17:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="FAIL" signature="testcase2_login_to_tracker(java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass@604ed9f0]" name="testcase2_login_to_tracker" duration-ms="2615" started-at="2017-10-15T17:39:47Z" data-provider="loginData" finished-at="2017-10-15T17:39:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ramesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: #logout
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-S094UKO', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\HP\AppData\Local\Temp\rust_mozprofile.vUGp3J3aS5pH, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=3552, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: c10442a9-2d83-4b98-8053-04aeb2e60be2
+*** Element info: {Using=id, value=logout}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: #logout
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-S094UKO', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\HP\AppData\Local\Temp\rust_mozprofile.vUGp3J3aS5pH, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=3552, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: c10442a9-2d83-4b98-8053-04aeb2e60be2
+*** Element info: {Using=id, value=logout}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:646)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:416)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:462)
+	at org.openqa.selenium.By$ById.findElement(By.java:218)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:408)
+	at pageObjectsPackage.LoginPage.verifyLogin(LoginPage.java:34)
+	at pageObjectsPackage.LoginPage.loginToExpenseTracker(LoginPage.java:47)
+	at testClassPackage.TestClass.testcase2_login_to_tracker(TestClass.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:821)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2_login_to_tracker -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testClassPackage.TestClass@604ed9f0]" name="tearDown" is-config="true" duration-ms="369" started-at="2017-10-15T17:39:50Z" finished-at="2017-10-15T17:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:testClassPackage.TestClass@604ed9f0]" name="SetUp" is-config="true" duration-ms="4502" started-at="2017-10-15T17:39:50Z" finished-at="2017-10-15T17:39:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="FAIL" signature="testcase2_login_to_tracker(java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass@604ed9f0]" name="testcase2_login_to_tracker" duration-ms="2712" started-at="2017-10-15T17:39:55Z" data-provider="loginData" finished-at="2017-10-15T17:39:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[wrongusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: #logout
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-S094UKO', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\HP\AppData\Local\Temp\rust_mozprofile.bEdoYklzIBd6, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=7936, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5e528862-433b-438c-855f-459f0070dc37
+*** Element info: {Using=id, value=logout}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: #logout
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-S094UKO', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\HP\AppData\Local\Temp\rust_mozprofile.bEdoYklzIBd6, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=7936, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5e528862-433b-438c-855f-459f0070dc37
+*** Element info: {Using=id, value=logout}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:646)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:416)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:462)
+	at org.openqa.selenium.By$ById.findElement(By.java:218)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:408)
+	at pageObjectsPackage.LoginPage.verifyLogin(LoginPage.java:34)
+	at pageObjectsPackage.LoginPage.loginToExpenseTracker(LoginPage.java:47)
+	at testClassPackage.TestClass.testcase2_login_to_tracker(TestClass.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:821)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2_login_to_tracker -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testClassPackage.TestClass@604ed9f0]" name="tearDown" is-config="true" duration-ms="386" started-at="2017-10-15T17:39:58Z" finished-at="2017-10-15T17:39:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:testClassPackage.TestClass@604ed9f0]" name="SetUp" is-config="true" duration-ms="4337" started-at="2017-10-15T17:39:58Z" finished-at="2017-10-15T17:40:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="FAIL" signature="testcase2_login_to_tracker(java.lang.String, java.lang.String)[pri:0, instance:testClassPackage.TestClass@604ed9f0]" name="testcase2_login_to_tracker" duration-ms="2673" started-at="2017-10-15T17:40:02Z" data-provider="loginData" finished-at="2017-10-15T17:40:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ramesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[wrongpassword]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: #logout
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-S094UKO', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\HP\AppData\Local\Temp\rust_mozprofile.Wzp94OjNmNl4, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=11188, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 7d624394-ee1d-4d59-8d5c-c197eedd9b45
+*** Element info: {Using=id, value=logout}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: #logout
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-S094UKO', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\HP\AppData\Local\Temp\rust_mozprofile.Wzp94OjNmNl4, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=11188, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 7d624394-ee1d-4d59-8d5c-c197eedd9b45
+*** Element info: {Using=id, value=logout}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:646)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:416)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:462)
+	at org.openqa.selenium.By$ById.findElement(By.java:218)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:408)
+	at pageObjectsPackage.LoginPage.verifyLogin(LoginPage.java:34)
+	at pageObjectsPackage.LoginPage.loginToExpenseTracker(LoginPage.java:47)
+	at testClassPackage.TestClass.testcase2_login_to_tracker(TestClass.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:821)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2_login_to_tracker -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testClassPackage.TestClass@604ed9f0]" name="tearDown" is-config="true" duration-ms="385" started-at="2017-10-15T17:40:05Z" finished-at="2017-10-15T17:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testClassPackage.TestClass -->
+    </test> <!-- Expense Tracker Validattion -->
+  </suite> <!-- User acceptance TestSuite -->
+</testng-results>
